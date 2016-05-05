@@ -1,0 +1,10 @@
+{
+    "name": "Message API",
+    "description": "A barebones Node.js app using Express 4",
+    "repository": "https://github.com/chusted/message-api.git",
+    "keywords": [
+        "node",
+        "express",
+        "static"
+    ]
+}
